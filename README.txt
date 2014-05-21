@@ -1,0 +1,1 @@
+I'm building a Solar Power Monitor for my small home solar power system. At this point, I have 245 watts of solar panels.
